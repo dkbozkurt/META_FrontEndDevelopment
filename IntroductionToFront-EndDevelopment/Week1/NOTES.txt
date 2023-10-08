@@ -1,0 +1,35 @@
+What is web browser and how does it work?
+
+A web browser, or browser for short, is a software application that you use to
+browse the World Wide Web. It works by sending a request to a web server and
+then receives a response containing the content that is to be displayed on the
+screen of your device. Once the browser is open on your device, there is the
+address bar where you input the address of the website that you want to visit.
+The address is commonly known as the Uniform Resource Locator or URL for short.
+The URL contains the protocol or the HTTP, the domain name, usually the name of
+the website, and the file path, or the path to the page that is displayed. When
+you make a request using this URL, the browser and server communicate using a
+protocol known as the Hypertext Transfer Protocol or HTTP. Once the web browser
+receives the content, it displays it on the screen of your device.
+
+First, you open a web browser, which is a software application. Next, you type
+the name of your favorite search engine. The name you type contains something
+called a domain name. Then when you press Enter, the web browser sends a request
+across a network and connects to another computer on the Internet called a web
+server. The web server is a special type of computer that allows other computers
+to make requests for data. The web server responds by sending a webpage back to
+the browser. Once the browser receives all the response information, the search
+engine webpage is made visible. The web page is a coded document that is
+rendered by the browser and then presented visually to you, the end-user. Now
+that the search engine webpage is loaded in the browser, you interact with that
+page to search for what you want to find. For example, type restaurants near me
+in the search bar and press the search button. Once again, the browser prepares
+and sends a request to the same search engine web server. This time, the request
+contains the added instructions to search for the phrase restaurants near me.
+The search engine web server processes the request by taking the keyword and
+using it to find the requested data. This data is stored in something called a
+database, which is connected to the web server. The web server then picks up
+that data and sends it back to the browser. When the web browser receives the
+full response from the web server, it again renders a visible webpage with links
+to some restaurants, a map showing nearby locations and more related information
+such as reviews, lists, and even reservations. 
