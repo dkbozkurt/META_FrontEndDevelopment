@@ -17,33 +17,14 @@
 </div>
 
 <div align="left">
-<h1>Meta Front-End Developer Professional Certificate Courses</h1>
 
 ## [](https://www.coursera.org/professional-certificates/meta-front-end-developer)
 * [ ] Introduction to Front-End Development
 * [ ] Programming with JavaScript
-* [X] Factorialize a Number
-* [X] Find the Longest Word in a String
-* [X] Return Largest Numbers in Arrays
-* [X] Confirm the Ending
-* [X] Repeat a String Repeat a String
-* [X] Truncate a String
-* [X] Finders Keepers
-* [X] Boo who
-* [X] Title Case a Sentence
-* [X] Slice and Splice
-* [X] Falsy Bouncer
-* [X] Where do I Belong
-* [X] Mutations
-* [X] Chunky Monkey
-
-## 
-* [] 
-* [] Programming with JavaScript
-* [] Version Control
-* [] HTML and CSS in depth
-* [] React Basics
-* [] Advanced React
-* [] Principles of UX/UI Design
-* [] Front-End Developer Capstone
-* [] Coding Interview Preparation
+* [ ] Version Control
+* [ ] HTML and CSS in depth
+* [ ] React Basics
+* [ ] Advanced React
+* [ ] Principles of UX/UI Design
+* [ ] Front-End Developer Capstone
+* [ ] Coding Interview Preparation
