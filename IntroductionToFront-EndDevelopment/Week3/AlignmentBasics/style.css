@@ -1,0 +1,14 @@
+p {
+    text-align: center;
+}
+
+.parent {
+    border : 4px solid red;
+}
+
+.child {
+    width: 50%;
+    padding : 20px;
+    border:4px solid green;
+    margin : auto; /*To align the element to the center, set its margin property to auto. The auto will tell the browser to calculate the margin automatically based on the space available.*/
+}

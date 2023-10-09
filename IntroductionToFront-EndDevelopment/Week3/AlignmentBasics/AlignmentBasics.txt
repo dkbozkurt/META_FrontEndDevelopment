@@ -1,0 +1,30 @@
+text-align : justify
+
+Text alignment can be set to left, right, center and justify. The justify
+alignment spreads the text out so that every line of the text has the same
+width.
+
+
+If you want to align an inline element like img, you will need to change it to a
+block-level element. Similar to the div example, you add the img to a parent
+element:
+
+<div class="parent">
+  <img src="photo.png" class="child">
+</div>
+
+To be more precise, in CSS you can set only the left and right margins to auto.
+This allows you to set the top and bottom margins to specific values if needed.
+
+.child {
+  display: block;
+  width: 50%;
+  margin-left: auto;
+  margin-right: auto;
+}
+
+
+float: right; 
+
+The float property sets an element's position relative to the text content
+within a parent element. Text will wrap around the element.
