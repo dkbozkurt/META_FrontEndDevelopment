@@ -1,0 +1,12 @@
+Block elements vs Inline elements
+
+It's important to remember that block elements begin on a new line and take up
+the full width of the page. And in line elements work within the flow of
+surrounding content rather than breaking onto their own line.
+
+Common block-level elements include <div>, <p>, <h1>, <ul>, <li>, <table>,
+<form>, and more.
+
+Common inline elements include <span>, <a>, <strong>, <em>, <img>, <br>, and <i>
+(for italics).
+
