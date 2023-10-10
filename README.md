@@ -17,7 +17,7 @@
 <div align="left">
 
 ## [](https://www.coursera.org/professional-certificates/meta-front-end-developer)
-* [ ] Introduction to Front-End Development
+* [X] Introduction to Front-End Development
 * [ ] Programming with JavaScript
 * [ ] Version Control
 * [ ] HTML and CSS in depth
