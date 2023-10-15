@@ -21,7 +21,7 @@
 ## [](https://www.coursera.org/professional-certificates/meta-front-end-developer)
 * [X] Introduction to Front-End Development
 * [X] Programming with JavaScript
-* [ ] Version Control
+* [X] Version Control
 * [ ] HTML and CSS in depth
 * [ ] React Basics
 * [ ] Advanced React
