@@ -1,0 +1,39 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Little Lemon</title>
+</head>
+<body>
+    <main>
+        <h1>Book a Table</h1>
+        <form method="POST">
+            <div>
+                <label for="booking_date">Booking Date</label>
+                <input type="date" name="booking_date" id="booking_date">
+            </div>
+
+            <div>
+                <label for="booking_people">Number of People</label>
+                <input type="range" name="booking_people" 
+                id="booking_people" min="1" max="10" value="4"
+                oninput="this.nextElementSibling.value = this.value">
+                <output>4</output>
+            </div>
+
+            <div>
+                <label for="booking_location">Location:</label>
+                <input list ="locations" name="booking_location" id="booking_location" >
+                <datalist id="locations">
+                    <option value="Downtown">Downtown</option>
+                    <option value="Uptown">Uptown</option>
+                </datalist>
+            </div>
+            <div>
+                <button type="submit"> Book Table</button>
+            </div>
+        </form>
+    </main>
+</body>
+</html>
