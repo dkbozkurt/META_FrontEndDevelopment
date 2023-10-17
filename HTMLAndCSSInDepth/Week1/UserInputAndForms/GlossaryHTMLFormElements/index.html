@@ -1,0 +1,61 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>HTML form elements</title>
+</head>
+<body>
+    <h2>Label</h2>
+    <label for="thisIsALabel">This is a label</label>
+    <input type="text" id="thisIsALabel" name="thisIsALabel" value="Empty" readonly>
+
+    <br>
+    <h2>Select & Option</h2>
+    <label for="course">Choose a course:</label>
+    <br>
+    <select name="coruselist" id="course">
+        <option value="html">HTML</option>
+        <option value="css">CSS</option>
+        <option value="js" selected>JavaScript</option>
+        <option value="react">React</option>
+    </select>
+
+    <br>
+    <h2>Textarea</h2>
+    <textarea name="response" id="" cols="30" rows="10" 
+    minlength="10" maxlength="200">Default Textarea text!</textarea>
+
+    <br>
+    <h2>Fieldset and Legend</h2>
+    <fieldset> 
+        <legend>Personal Info</legend> 
+        <label for="fname">First name:</label><br> 
+        <input type="text" id="fname" name="fname" value="John"><br> 
+        <label for="lname">Last name:</label><br> 
+        <input type="text" id="lname" name="lname" value="Doe"><br> 
+    </fieldset> 
+    
+    <fieldset> 
+        <legend>Qualificaiton</legend> 
+        <label for="pdegree">Primary degree:</label><br> 
+        <input type="text" id="pdegree" name="degree" value="Masters"><br> 
+        <label for="fos">Last name:</label><br> 
+        <input type="text" id="fos" name="field" value="Psychology"><br> 
+    </fieldset> 
+
+    <br>
+    <h2>Datalist</h2>
+    <form action="/my_action_page"> 
+        <label for="flowers">Favourite flower:</label><br> 
+        <input list="flowers" name="flowers"> 
+        <datalist id="flowers"> 
+            <option value="Rose"> 
+            <option value="Lily"> 
+            <option value="Tulip"> 
+            <option value="Daffodil" selected> 
+            <option value="Orchid"> 
+        </datalist> 
+    </form>
+</body>
+</html>
