@@ -23,7 +23,7 @@
 * [X] Introduction to Front-End Development
 * [X] Programming with JavaScript
 * [X] Version Control
-* [ ] HTML and CSS in depth
+* [X] HTML and CSS in depth
 * [ ] React Basics
 * [ ] Advanced React
 * [ ] Principles of UX/UI Design
