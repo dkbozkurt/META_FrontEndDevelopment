@@ -1,3 +1,6 @@
+import {useState} from "react";
+import "./App.css";
+
 function App(){
     const [name,setName] = useState("");
 
@@ -22,7 +25,7 @@ function App(){
                         onChange={(e)=> setName(e.target.value)}
                         />
                     </div>
-                    <button disable = {!name} type="submit">
+                    <button disabled = {!name} type="submit">
                         Submit
                     </button>
                 </fieldset>
