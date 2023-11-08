@@ -4,7 +4,7 @@ import ListOfGoals from "./ListOfGoals";
 
 function App()
 {
-    const [allGoals,setAllGoals] = React.useState([]);
+    const [allGoals,updateAllGoals] = React.useState([]);
 
     function addGoal(goal) 
     {
