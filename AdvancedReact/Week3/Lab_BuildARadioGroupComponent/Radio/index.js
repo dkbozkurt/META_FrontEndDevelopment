@@ -25,9 +25,9 @@ export const RadioOption = ({ value, checked, onChange, children }) => {
             name={value} 
             value = {value}
             checked = {checked}
-            onChange = {(e => {
+            onChange = {(e) => {
                 onChange(e.target.value);
-            })}
+            }}
         />
         <label htmlFor={value}>{children}</label>
         </div>
