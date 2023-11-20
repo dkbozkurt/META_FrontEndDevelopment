@@ -61,8 +61,8 @@ function App()
     return (
         <div className= "App">
             <header className="Header">Little Lemon Restaurant</header>
-            <PanelMouseLogger/>
-            <PointMouseLogger/>
+            <PanelMouseTracker/>
+            <PointMouseTracker/>
         </div>
     )
 }
