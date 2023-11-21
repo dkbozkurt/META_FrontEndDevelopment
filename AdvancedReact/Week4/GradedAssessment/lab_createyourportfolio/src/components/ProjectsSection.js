@@ -45,8 +45,8 @@ const ProjectsSection = () => {
       <Box
         display="grid"
         gridTemplateColumns="repeat(2,minmax(0,1fr))"
-        gridGap={8}
-      >
+        gridGap={8} 
+      > 
         {projects.map((project) => (
           <Card
             key={project.title}
