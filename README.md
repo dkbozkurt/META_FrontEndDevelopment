@@ -26,6 +26,6 @@
 * [X] HTML and CSS in depth
 * [X] React Basics
 * [X] Advanced React
-* [ ] Principles of UX/UI Design
+* [X] Principles of UX/UI Design
 * [ ] Front-End Developer Capstone
-* [ ] Coding Interview Preparation
+* [X] Coding Interview Preparation
