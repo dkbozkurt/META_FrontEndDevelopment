@@ -33,5 +33,5 @@
 <br>
 <div align="center">
 <h3> Meta Professional Front-End Developer Certificate</h3>
-<a href="https://www.gnu.org/software/bash/" target="_blank" rel="noreferrer"> <img src="https://github.com/devicons/devicon/blob/master/icons/bash/bash-original.svg" alt="bash" width="40" height="40"/> </a>
+<a href="https://coursera.org/share/8de203152b1b9fd601db93eb793cad1e" target="_blank" rel="noreferrer"> <img src="https://github.com/dkbozkurt/META_FrontEndDevelopment/blob/main/META_Meta_Professional_Front-End_Developer_Certificate-ZQWSFAN3GFJK-1.png" alt="certificate" width="220" height="170"/> </a>
 </div>
