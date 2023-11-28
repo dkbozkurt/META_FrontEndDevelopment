@@ -30,3 +30,8 @@
 * [X] Front-End Developer Capstone
 * [X] Coding Interview Preparation
 
+<br>
+<div align="center">
+<h3> Meta Professional Front-End Developer Certificate</h3>
+<a href="https://www.gnu.org/software/bash/" target="_blank" rel="noreferrer"> <img src="https://github.com/devicons/devicon/blob/master/icons/bash/bash-original.svg" alt="bash" width="40" height="40"/> </a>
+</div>
