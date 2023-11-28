@@ -30,6 +30,8 @@
 * [X] Front-End Developer Capstone
 * [X] Coding Interview Preparation
 
+</div>
+
 <br>
 <div align="center">
 <h3> Meta Professional Front-End Developer Certificate</h3>
