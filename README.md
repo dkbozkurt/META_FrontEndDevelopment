@@ -33,5 +33,5 @@
 <br>
 <div align="center">
 <h3> Meta Professional Front-End Developer Certificate</h3>
-<a href="https://coursera.org/share/8de203152b1b9fd601db93eb793cad1e" target="_blank" rel="noreferrer"> <img src="https://github.com/dkbozkurt/META_FrontEndDevelopment/blob/main/META_Meta_Professional_Front-End_Developer_Certificate-ZQWSFAN3GFJK-1.png" alt="certificate" width="220" height="170"/> </a>
+<a href="https://coursera.org/share/8de203152b1b9fd601db93eb793cad1e" target="_blank" rel="noreferrer"> <img src="https://github.com/dkbozkurt/META_FrontEndDevelopment/blob/main/META_Meta_Professional_Front-End_Developer_Certificate-ZQWSFAN3GFJK-1.png" alt="certificate" width="440" height="340"/> </a>
 </div>
