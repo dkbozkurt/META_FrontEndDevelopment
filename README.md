@@ -31,9 +31,9 @@
 * [X] Coding Interview Preparation
 
 </div>
-
 <br>
+
 <div align="center">
-<h3> Meta Professional Front-End Developer Certificate</h3>
+<h2> Meta Professional Front-End Developer Certificate</h2>
 <a href="https://coursera.org/share/8de203152b1b9fd601db93eb793cad1e" target="_blank" rel="noreferrer"> <img src="https://github.com/dkbozkurt/META_FrontEndDevelopment/blob/main/META_Meta_Professional_Front-End_Developer_Certificate-ZQWSFAN3GFJK-1.png" alt="certificate" width="660" height="510"/> </a>
 </div>
